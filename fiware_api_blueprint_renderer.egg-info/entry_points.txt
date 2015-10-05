@@ -1,0 +1,6 @@
+[fiware_api_blueprint_renderer.themes]
+default = fiware_api_blueprint_renderer.themes.default_theme
+
+[console_scripts]
+fabre = fiware_api_blueprint_renderer.src.renderer:main
+

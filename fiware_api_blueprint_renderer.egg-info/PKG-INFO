@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: fiware-api-blueprint-renderer
+Version: 0.3.1
+Summary: Python module to aid with parsing FIWARE API specification files and rendering them to HTML pages.
+Home-page: https://github.com/FiwareULPGC/fiware-api-blueprint-renderer
+Author: FIWARE ULPGC
+Author-email: fiware@ulpgc.es
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Documentation
+Classifier: Topic :: Text Processing
