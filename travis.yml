@@ -4,7 +4,6 @@ python:
 
 install: 
     - pip install unittest
-    - ./custom_installation.sh
 
 script: 
     - ./fabre_tests.py
