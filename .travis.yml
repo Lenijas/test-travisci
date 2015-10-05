@@ -10,6 +10,7 @@ install:
 
 script: 
     - python fabre_test.py
+    - fabre -i apib-example/fiware-ngsi-v2.apib -o ~/out/test.pdf --pdf
 
 branches:
   only:
